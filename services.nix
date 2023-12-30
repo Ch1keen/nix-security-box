@@ -16,6 +16,7 @@
     osv-scanner
     uncover
     traitor
+    ronin
 
     # E-Mail
     mx-takeover
